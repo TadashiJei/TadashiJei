@@ -11,7 +11,7 @@
 
 ## 🛠️ My Toolkit
 
-* **Languages:** JavaScript (ES6+), Python, HTML5, CSS3 
+* **Languages:** JavaScript (ES6+), Python, HTML5, CSS3, C++, C#
 * **Frontend:** React.js, TypeScript, Tailwind CSS, Bootstrap
 * **Backend:** Node.js, Express.js, Django, REST APIs
 * **Databases:** PostgreSQL, MongoDB, SQL
