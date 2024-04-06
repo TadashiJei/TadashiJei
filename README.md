@@ -1,4 +1,4 @@
-## 👾 Tadashijei | Full Stack Web Developer 
+## 👾 Tadashijei | Full Stack Developer 
 ***Metro Manila, Philippines***
 
 **I build web experiences that are as functional as they are beautiful.** 
